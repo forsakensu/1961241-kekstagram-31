@@ -1,5 +1,5 @@
-import { getRandomInteger } from "./util.js";
-import { getRandomArrayElement } from "./util.js";
+import { getRandomInteger } from './util.js';
+import { getRandomArrayElement } from './util.js';
 
 const AVATARS = [
   'img/avatar-1.svg',
